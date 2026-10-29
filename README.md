@@ -1,4 +1,3 @@
-# Illustrator-Portfolio
 # Illustrator Portfolio 🎨
 
 A collection of vector illustrations and digital artwork created with Adobe Illustrator.
